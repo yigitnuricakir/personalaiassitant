@@ -1,0 +1,8 @@
+{
+  "name": "Monsmatics — Personal AI Assistant",
+  "description": "A personal AI assistant that provides daily weather notifications, answers questions with context, and offers proactive reminders to help you manage your day.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
